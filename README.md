@@ -33,7 +33,7 @@
 
 </br>
 
-## :checkered_flag: Sweet Fruits Of Life :checkered_flag:
+## Sweet Fruits Of Life :checkered_flag:
 
 | **UOIT : Nominee : :trophy: 2019 Outstanding Master's Thesis Award & 🥇 FEAS Graduate Scholarship Award** |
 | :---: |

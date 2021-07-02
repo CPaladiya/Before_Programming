@@ -35,7 +35,7 @@
 
 ## :checkered_flag: Sweet Fruits Of Life :checkered_flag:
 
-| **UOIT : Nominee : :trophy: 2019 Outstanding Master's Thesis Award & :trophy: FEAS Graduate Scholarship Award** |
+| **UOIT : Nominee : :trophy: 2019 Outstanding Master's Thesis Award & 🥇 FEAS Graduate Scholarship Award** |
 | :---: |
 | <img src="https://github.com/CPaladiya/Before_Programming/blob/main/GoogleScholar.jpg" width="800"> |
 
@@ -43,6 +43,6 @@
 
 | **2014 : Three National Awards : SAE Supra India Race Car Competition : 100+ Teams** |
 | :---: |
-|:trophy: 1st in Endurance race :trophy: Go green award :trophy: Third Overall in the competition|
+|🥇 1st in Endurance race 🥇 Go green award 🥉 Third Overall in the competition|
 | <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Car.jpg" width="800"> |
 

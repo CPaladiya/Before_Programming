@@ -1,4 +1,4 @@
-# :factory: Before_Programming : Professional Work Experience :factory:
+# :factory: Before_Programming : Professional Work Experience
 
 | **:bar_chart: Mechanical Designer** : *Erie Architectural Products* : Sep 2019 to Jun 2021 |
 | :---: |

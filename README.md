@@ -4,7 +4,7 @@
 | :---: |
 |  Preparing fabrication drawing packages of curtain wall systems for production department |
 |  Projects worked on : Las Vegas Convention Center, LaGuardia Airport, etc. |
-| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Erie.jpg" width="990"> |
+| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Erie.jpg" width="800"> |
 
 </br>
 
@@ -13,7 +13,7 @@
 | :---: |
 |  Identified laser parameters to generate silicon nano fibers in ambient air |
 |  Published 6+ scientific research/conference papers : 30+ citation ([Google Scholar](https://scholar.google.ca/citations?user=5KKqWdcAAAAJ&hl=en)) |
-| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/UOIT.jpg" width="990"> |
+| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/UOIT.jpg" width="800"> |
 
 </br>
 
@@ -21,7 +21,7 @@
 | :---: |
 |  Prepared document control system for multi-million dollar project & pressure test packages for pressurized pipes |
 |  Projects worked on : Irvin Refinery Tier-3 Module |
-| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Lorneville.jpg" width="990"> |
+| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Lorneville.jpg" width="800"> |
 
 </br>
 
@@ -29,7 +29,7 @@
 | :---: |
 |  3D Designed and prepared various mining equipments  |
 |  Projects worked on : Chutes, hoppers, trommels and SAG Mills  |
-| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Tega.jpg" width="990"> |
+| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Tega.jpg" width="800"> |
 
 </br>
 
@@ -37,12 +37,12 @@
 
 | **UOIT : Nominee : :trophy: 2019 Outstanding Master's Thesis Award & :trophy: FEAS Graduate Scholarship Award** |
 | :---: |
-| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/GoogleScholar.jpg" width="990"> |
+| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/GoogleScholar.jpg" width="800"> |
 
 </br>
 
 | **2014 : Three National Awards : SAE Supra India Race Car Competition : 100+ Teams** |
 | :---: |
 |:trophy: 1st in Endurance race :trophy: Go green award :trophy: Third Overall in the competition|
-| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Car.jpg" width="990"> |
+| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/Car.jpg" width="800"> |
 

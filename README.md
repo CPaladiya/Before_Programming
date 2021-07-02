@@ -11,7 +11,7 @@
 
 | **:microscope: R&D Research : MASc** : *University of Ontario Institute of Technology* : Sep 2017 to Jan 2019 |
 | :---: |
-|  Identified laser parameters to generate silicon nano fibers in ambient air |
+|  Identified pico second laser parameters to generate silicon nano fibers in ambient air |
 |  Published 6+ scientific research/conference papers : 30+ citation ([Google Scholar](https://scholar.google.ca/citations?user=5KKqWdcAAAAJ&hl=en)) |
 | <img src="https://github.com/CPaladiya/Before_Programming/blob/main/UOIT.jpg" width="800"> |
 

@@ -1,7 +1,6 @@
-# Before_Programming
-> Profile depicting my professional work experience prior to programming
+# :factory: Before_Programming : Professional Work Experience :factory:
 
-| **Mechanical Designer** : *Erie Architectural Products* : Sep 2019 to Jun 2021 |
+| **:bar_chart: Mechanical Designer** : *Erie Architectural Products* : Sep 2019 to Jun 2021 |
 | :---: |
 |  Preparing fabrication drawing packages of curtain wall systems for production department |
 |  Projects worked on : Las Vegas Convention Center, LaGuardia Airport, etc. |
@@ -10,7 +9,7 @@
 </br>
 
 
-| **R&D Research : MASc** : *University of Ontario Institute of Technology* : Sep 2017 to Jan 2019 |
+| **:microscope: R&D Research : MASc** : *University of Ontario Institute of Technology* : Sep 2017 to Jan 2019 |
 | :---: |
 |  Identified laser parameters to generate silicon nano fibers in ambient air |
 |  Published 6+ scientific research/conference papers : 30+ citation ([Google Scholar](https://scholar.google.ca/citations?user=5KKqWdcAAAAJ&hl=en)) |
@@ -18,7 +17,7 @@
 
 </br>
 
-| **Co-op Project Controls Engineer** : *Lorneville Mechanical Contractor* : May 2017 to Aug 2017 |
+| **:bar_chart: Co-op Project Controls Engineer** : *Lorneville Mechanical Contractor* : May 2017 to Aug 2017 |
 | :---: |
 |  Prepared document control system for multi-million dollar project & pressure test packages for pressurized pipes |
 |  Projects worked on : Irvin Refinery Tier-3 Module |
@@ -26,7 +25,7 @@
 
 </br>
 
-| **Production Engineer** : *Tega Industries (SEZ) Ltd.* : Sep 2014 to Jan 2016 |
+| **:bar_chart: Production Engineer** : *Tega Industries (SEZ) Ltd.* : Sep 2014 to Jan 2016 |
 | :---: |
 |  3D Designed and prepared various mining equipments  |
 |  Projects worked on : Chutes, hoppers, trommels and SAG Mills  |

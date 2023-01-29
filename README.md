@@ -37,7 +37,7 @@
 
 | **UOIT : Nominee : :trophy: 2019 Outstanding Master's Thesis Award & 🥇 FEAS Graduate Scholarship Award** |
 | :---: |
-| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/GoogleScholar.jpg" width="800"> |
+| <img src="https://github.com/CPaladiya/Before_Programming/blob/main/GoogleScholar.png" width="800"> |
 
 </br>
 
